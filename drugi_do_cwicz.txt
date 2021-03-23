@@ -1,3 +1,4 @@
 Nadzwyczajna bladosc nie szarosc tego dupska ( do drugiego repozytorium)
 W drugiej liniii dokonuję modyfikacji wcześniej tylko jednoliniowego zbioru.
 źeby go dopisać trzeba go skomitować.
+dopisuję 4. linijkę.
